@@ -1,0 +1,68 @@
+.tracy{
+    width: 60%;
+    height: 50px;
+    background-color: rgb(131, 117, 117);
+    padding-top: 10px;
+    margin: auto;
+    padding-left: 10px;
+}
+.one{
+    background-color: grey;
+    width: 60px;
+    height: 70%;
+}
+.two{
+    background-color: grey;
+    width: 60px;
+    height: 70%;
+}
+.three{
+    background-color: grey;
+    width: 60px;
+    height: 70%;
+}
+.trevor{
+    background-color: darkgray;
+    width: 60%;
+    height: 400px;
+    margin: auto;
+    margin-top: 10px;
+}
+.big{
+    background-color: dimgray;
+    width: 49%;
+    height: 100%;
+    float: left;
+    padding-left: 5px;
+}
+.small{
+    background-color: cadetblue;
+    width: 49%;
+    height: 100%;
+    float: right;
+}
+.trendy{
+    background-color: darkgrey;
+    width: 60%;
+    height: 300px;
+    margin: auto;
+    margin-top: 10px;
+    padding-left: 8px;
+}
+.trevin{
+    background-color: darkgrey;
+    width: 60%;
+    height: 300px;
+    margin: auto;
+    margin-top: 10px;
+    padding-left: 8px;
+}
+.buka{
+    width: 70%;
+    height: 50px;
+    background-color: rgb(131, 117, 117);
+    padding-top: 10px;
+    margin: auto;
+    padding-left: 30px;
+    margin-top: 10px;
+}
